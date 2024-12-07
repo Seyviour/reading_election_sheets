@@ -1,0 +1,189 @@
+49 BAUCHI 05-02-06-018
+5050 images loaded.
+{'multiple_choice_answer': '49', 'question': 'How many votes did APC score?', 'image': <PIL.Image.Image image mode=RGB size=448x448 at 0x7F2C2F6501D0>, 'state': 'BAUCHI', 'code': '05-02-06-018'}
+`config.hidden_act` is ignored, you should use `config.hidden_activation` instead.
+Gemma's activation function will be set to `gelu_pytorch_tanh`. Please, use
+`config.hidden_activation` if you want to override this behaviour.
+See https://github.com/huggingface/transformers/pull/29402 for more details.
+Loading checkpoint shards:   0%|          | 0/3 [00:00<?, ?it/s]Loading checkpoint shards:  33%|███▎      | 1/3 [00:01<00:02,  1.15s/it]Loading checkpoint shards:  67%|██████▋   | 2/3 [00:02<00:01,  1.07s/it]Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.28it/s]Loading checkpoint shards: 100%|██████████| 3/3 [00:02<00:00,  1.15it/s]
+incorrect examples:
+0.0 % done. So far accuracy is 100.0 %. CER is 0.0 %.
+-------------------------------------
+predicts 56
+actually 86
+26-06-11-011
+/home/ziheng.chang/final_project/paligemma_vote_infer.py:99: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+-------------------------------------
+predicts 79
+actually 117
+17-05-05-004
+-------------------------------------
+predicts 61
+actually 81
+02-06-03-005
+-------------------------------------
+predicts 60
+actually 2
+12-06-04-045
+-------------------------------------
+predicts 95
+actually 91
+23-02-11-004
+-------------------------------------
+predicts 108
+actually 128
+19-13-11-002
+-------------------------------------
+predicts 51
+actually 82
+19-32-01-004
+-------------------------------------
+predicts 11
+actually 5
+01-11-02-006
+-------------------------------------
+predicts 231
+actually 239
+16-23-02-003
+-------------------------------------
+predicts 14
+actually 41
+27-03-11-021
+-------------------------------------
+predicts 204
+actually 209
+17-15-10-021
+-------------------------------------
+predicts 31
+actually 81
+25-10-01-037
+-------------------------------------
+predicts 118
+actually 113
+21-21-07-002
+-------------------------------------
+predicts 11
+actually 5
+24-11-03-071
+-------------------------------------
+predicts 133
+actually 123
+26-18-11-004
+-------------------------------------
+predicts 6
+actually 4
+32-15-05-061
+1.9801980198019802 % done. So far accuracy is 84.15841584158416 %. CER is 11.557788944723619 %.
+-------------------------------------
+predicts 49
+actually 10
+18-09-08-040
+/home/ziheng.chang/final_project/paligemma_vote_infer.py:99: UserWarning: FigureCanvasAgg is non-interactive, and thus cannot be shown
+  plt.show()
+-------------------------------------
+predicts 25
+actually 85
+23-15-03-002
+-------------------------------------
+predicts 146
+actually 144
+17-07-08-002
+-------------------------------------
+predicts 40
+actually 14
+22-06-07-020
+-------------------------------------
+predicts 54
+actually 52
+13-05-09-027
+-------------------------------------
+predicts 184
+actually 182
+29-21-05-005
+-------------------------------------
+predicts 115
+actually 15
+19-30-02-002
+-------------------------------------
+predicts 185
+actually 105
+23-12-01-004
+-------------------------------------
+predicts 14
+actually 7
+32-17-12-006
+-------------------------------------
+predicts 19
+actually 13
+15-07-06-020
+-------------------------------------
+predicts 5
+actually 4
+04-10-03-007
+-------------------------------------
+predicts 11
+actually 5
+32-15-02-019
+-------------------------------------
+predicts 18
+actually 16
+31-14-08-011
+-------------------------------------
+predicts 102
+actually 100
+02-14-11-008
+-------------------------------------
+predicts 930
+actually 130
+21-04-10-020
+3.9603960396039604 % done. So far accuracy is 84.5771144278607 %. CER is 10.76923076923077 %.
+5.9405940594059405 % done. So far accuracy is 84.71760797342192 %. CER is 10.829103214890017 %.
+7.920792079207921 % done. So far accuracy is 84.28927680798004 %. CER is 10.814249363867685 %.
+9.900990099009901 % done. So far accuracy is 84.03193612774452 %. CER is 10.865191146881289 %.
+11.881188118811881 % done. So far accuracy is 84.35940099833611 %. CER is 10.376569037656903 %.
+13.861386138613863 % done. So far accuracy is 85.87731811697576 %. CER is 9.312320916905444 %.
+15.841584158415841 % done. So far accuracy is 85.26841448189762 %. CER is 9.974905897114178 %.
+17.82178217821782 % done. So far accuracy is 85.5715871254162 %. CER is 9.60044395116537 %.
+19.801980198019802 % done. So far accuracy is 85.81418581418582 %. CER is 9.376558603491272 %.
+21.782178217821784 % done. So far accuracy is 86.0127157129882 %. CER is 9.29283771532185 %.
+23.762376237623762 % done. So far accuracy is 85.8451290591174 %. CER is 9.26079734219269 %.
+25.742574257425744 % done. So far accuracy is 85.93389700230591 %. CER is 9.146574818216608 %.
+27.722772277227726 % done. So far accuracy is 86.15274803711634 %. CER is 9.055397727272728 %.
+29.7029702970297 % done. So far accuracy is 86.14257161892071 %. CER is 9.060736807168935 %.
+31.683168316831683 % done. So far accuracy is 86.2585883822611 %. CER is 9.054138145612942 %.
+33.663366336633665 % done. So far accuracy is 86.18459729570841 %. CER is 9.066978648727698 %.
+35.64356435643564 % done. So far accuracy is 86.56302054414215 %. CER is 8.836565096952908 %.
+37.62376237623762 % done. So far accuracy is 86.74381904260915 %. CER is 8.767772511848342 %.
+39.603960396039604 % done. So far accuracy is 86.75662168915542 %. CER is 8.692384769539078 %.
+41.584158415841586 % done. So far accuracy is 86.6254164683484 %. CER is 8.821420033468803 %.
+43.56435643564357 % done. So far accuracy is 86.50613357564744 %. CER is 8.85036496350365 %.
+45.54455445544555 % done. So far accuracy is 86.57105606258149 %. CER is 8.784965034965035 %.
+47.524752475247524 % done. So far accuracy is 86.50562265722616 %. CER is 8.858102434928632 %.
+49.504950495049506 % done. So far accuracy is 86.32546981207517 %. CER is 9.001208215867901 %.
+51.48514851485149 % done. So far accuracy is 86.23606305267205 %. CER is 9.097948122338366 %.
+53.46534653465347 % done. So far accuracy is 86.22732321362459 %. CER is 9.107876073161627 %.
+55.44554455445545 % done. So far accuracy is 86.07640128525527 %. CER is 9.16456607850198 %.
+57.42574257425742 % done. So far accuracy is 85.93588417786971 %. CER is 9.215550156195764 %.
+59.4059405940594 % done. So far accuracy is 85.90469843385539 %. CER is 9.25428283506886 %.
+61.386138613861384 % done. So far accuracy is 85.97226701064173 %. CER is 9.224011713030746 %.
+63.366336633663366 % done. So far accuracy is 85.94189315838801 %. CER is 9.270372710044219 %.
+65.34653465346535 % done. So far accuracy is 85.79218418661011 %. CER is 9.418070444104135 %.
+67.32673267326733 % done. So far accuracy is 85.65127903557777 %. CER is 9.543630147168129 %.
+69.3069306930693 % done. So far accuracy is 85.51842330762639 %. CER is 9.64203233256351 %.
+71.28712871287128 % done. So far accuracy is 85.47625659539017 %. CER is 9.66068424004487 %.
+73.26732673267327 % done. So far accuracy is 85.35530937584437 %. CER is 9.799372185068924 %.
+75.24752475247524 % done. So far accuracy is 85.18810839252828 %. CER is 9.925591283550359 %.
+77.22772277227723 % done. So far accuracy is 85.1832863368367 %. CER is 9.92613709990929 %.
+79.20792079207921 % done. So far accuracy is 85.10372406898276 %. CER is 10.05050505050505 %.
+81.1881188118812 % done. So far accuracy is 85.02804194099001 %. CER is 10.119414009602364 %.
+83.16831683168317 % done. So far accuracy is 84.90835515353487 %. CER is 10.175607409189318 %.
+85.14851485148515 % done. So far accuracy is 84.98023715415019 %. CER is 10.137436861270997 %.
+87.12871287128714 % done. So far accuracy is 84.88979777323335 %. CER is 10.167354424575882 %.
+89.10891089108911 % done. So far accuracy is 84.9811153077094 %. CER is 10.148181409968569 %.
+91.0891089108911 % done. So far accuracy is 84.93805694414259 %. CER is 10.139514445787103 %.
+93.06930693069307 % done. So far accuracy is 85.00319081046585 %. CER is 10.097859984944618 %.
+95.04950495049505 % done. So far accuracy is 85.02395334305352 %. CER is 10.089520800421274 %.
+97.02970297029702 % done. So far accuracy is 85.0642725974291 %. CER is 10.072239422084623 %.
+99.00990099009901 % done. So far accuracy is 85.00299940011998 %. CER is 10.064672594987874 %.
+Completed. Accuracy is 85.00990099009901 %. . CER is 10.05804643714972 %.
