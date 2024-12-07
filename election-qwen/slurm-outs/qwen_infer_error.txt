@@ -1,0 +1,7 @@
+<string>:204: SyntaxWarning: invalid escape sequence '\ '
+<string>:205: SyntaxWarning: invalid escape sequence '\_'
+<string>:206: SyntaxWarning: invalid escape sequence '\ '
+<string>:204: SyntaxWarning: invalid escape sequence '\ '
+<string>:205: SyntaxWarning: invalid escape sequence '\_'
+<string>:206: SyntaxWarning: invalid escape sequence '\ '
+`Qwen2VLRotaryEmbedding` can now be fully parameterized by passing the model config through the `config` argument. All other arguments will be removed in v4.46
